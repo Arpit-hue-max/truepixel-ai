@@ -230,7 +230,7 @@ const LoginPage = () => {
               transition={{ delay: 0.6 }}
               className="text-center text-zinc-500 text-xs mt-6"
             >
-              Secure authentication powered by Emergent
+              Secure authentication via Google
             </motion.p>
           </motion.div>
         </motion.div>
